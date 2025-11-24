@@ -76,6 +76,7 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 - **UX/UI**: Intuitive interfaces with exceptional user experience
 
 ---
+## 📊 Contacts
 
 <div align="center">
 https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
