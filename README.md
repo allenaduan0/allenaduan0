@@ -77,6 +77,34 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 
 ---
 
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
+
+---
+
+💡 Beyond Code
+🎮 Gaming & Tech Exploration - Understanding user psychology through interactive experiences
+
+📚 Technical Writing - Sharing knowledge through blogs and documentation
+
+🚀 Open Source - Contributing to and maintaining meaningful projects
+
+🎨 UI/UX Design - Creating beautiful and functional user interfaces
+
+📱 Mobile Innovation - Exploring cutting-edge mobile development with Flutter
+
+---
+
+<div align="center">
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer
+</div> ```
+
+---
+
 ## 📈 Engineering Philosophy
 
 ```javascript
