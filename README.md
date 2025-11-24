@@ -180,7 +180,7 @@ const myCommitment: SoftwareEngineer = {
 
 > “Code is not just lines, it’s a story of solutions.”
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=allenaduan0.profile)](https://github.com/allenaduan0)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=allenaduan0.profile)](https://github.com/allenaduan0)
 
 <p align="center">
   Keep exploring, building, and learning! 🚀
