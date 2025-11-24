@@ -1,5 +1,3 @@
-can you update this:
-
 # 👨‍💻 Senior Full Stack Developer | Software Engineer
 
 <div align="center">
@@ -56,15 +54,7 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-![Allen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=allenaduan0&theme=radical&hide_border=true)
-
-</div>
+<div align="center"><!-- A more modern stats card --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> </a><!-- GitHub Streak Stats --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </a><!-- Trophy Stats --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" /> </a></div>
 
 ---
 
