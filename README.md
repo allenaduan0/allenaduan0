@@ -67,8 +67,8 @@
 - Session security
 
 <div align="left">
-[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/login_system_react_express)
-[<kbd>🌐 Live Demo</kbd>](#)
+  <a href="https://github.com/allenaduan0/login_system_react_express" style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; margin-right: 10px;">📁 View Code</a>
+  <a href="#" style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;">🌐 Live Demo</a>
 </div>
 
 </div>
