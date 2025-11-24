@@ -49,71 +49,72 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
+<div style="display: grid; gap: 1.5rem;">
 
-<!-- Secure Login System Card -->
-<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
-<h3>🔐 Secure Login System</h3>
+### 🔐 Secure Login System
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
+  
+**Description:** Enterprise-grade authentication system with modern security practices
 
-<div align="center">
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
-[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+**Stack:** 
+`React` `Express.js` `JWT` `Bcrypt` `MySQL`
+
+**Features:**
+- JWT token management & refresh
+- Password encryption & validation
+- Responsive UI components
+- API rate limiting
+- Session security
+
+<div align="left">
+[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/login_system_react_express)
+[<kbd>🌐 Live Demo</kbd>](#)
 </div>
 
-**🛠 Built With:**  
-<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">React</span>
-<span style="background:#000000; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Express</span>
-<span style="background:#D63AFF; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">JWT</span>
-<span style="background:#FF6B6B; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Bcrypt</span>
-
-**✨ Highlights:**  
-🔒 Secure Authentication - JWT & password encryption  
-🎨 Modern UI - Responsive and intuitive  
-⚡ Performance - Optimized sessions & fast load times
 </div>
 
-<!-- Task Tracker Pro Card -->
-<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
-<h3>✅ Task Tracker Pro</h3>
+### ✅ Task Tracker Pro  
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
 
-<div align="center">
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/task_tracker)
-[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+**Description:** Production-ready task management system built with Laravel
+
+**Stack:**
+`Laravel` `MySQL` `JavaScript` `Bootstrap` `REST API`
+
+**Features:**
+- Real-time task synchronization
+- Drag-and-drop interface
+- Advanced search & filters
+- User role management
+- Data export capabilities
+
+<div align="left">
+[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/task_tracker)
+[<kbd>🌐 Live Demo</kbd>](#)
 </div>
 
-**🛠 Built With:**  
-<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">React</span>
-<span style="background:#FFCA28; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Firebase</span>
-<span style="background:#47A248; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Real-time DB</span>
-<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Drag & Drop</span>
-
-**✨ Highlights:**  
-🔄 Real-time Sync  
-👆 Drag & Drop Tasks  
-🔍 Smart Filtering  
-☁️ Cloud Storage
 </div>
 
-<!-- LaraWeather Card -->
-<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
-<h3>🌤️ LaraWeather</h3>
+### 🌤️ LaraWeather
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
 
-<div align="center">
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/lara_weather)
-[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+**Description:** Weather application with professional data visualization
+
+**Stack:**
+`Laravel` `Weather API` `JavaScript` `Chart.js` `CSS3`
+
+**Features:**
+- Multiple weather source integration
+- Interactive charts & graphs
+- Location-based forecasting
+- Cached API responses
+- Mobile-responsive design
+
+<div align="left">
+[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/lara_weather)  
+[<kbd>🌐 Live Demo</kbd>](#)
 </div>
 
-**🛠 Built With:**  
-<span style="background:#FF2D20; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Laravel</span>
-<span style="background:#007ACC; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">REST API</span>
-<span style="background:#47A248; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Data Viz</span>
-<span style="background:#777BB4; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">PHP</span>
-
-**✨ Highlights:**  
-🌡️ Accurate Forecasts  
-📊 Beautiful Charts  
-📍 Multi-location Support  
-🎯 Clean UI
 </div>
 
 </div>
