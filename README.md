@@ -15,7 +15,7 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### 🖥️ Frontend Development
-<div align="left">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="display:inline-block; margin:5px"/>
@@ -27,7 +27,7 @@
 </div>
 
 ### ⚙️ Backend & Mobile Development
-<div align="left">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40" style="display:inline-block; margin:5px"/>
@@ -37,7 +37,7 @@
 </div>
 
 ### 🛠️ Tools & Platforms
-<div align="left">
+<div align="left" style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" style="display:inline-block; margin:5px"/>
