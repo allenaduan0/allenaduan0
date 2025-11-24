@@ -109,23 +109,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-### 📈 Activity & Stats
-<a href="https://github.com/allenaduan0">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_title=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=allenaduan0&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</a>
-
-### 💻 Most Used Languages
-<a href="https://github.com/allenaduan0">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,scss" />
-</a>
-
-### 🏆 GitHub Trophies
-<a href="https://github.com/allenaduan0">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</a>
-
+  <a href="https://github.com/allenaduan0"> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> 
+  </a>
+  <a href="https://github.com/allenaduan0"> 
+    <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+  </a>
+  <a href="https://github.com/allenaduan0"> 
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" /> 
+  </a>
 </div>
 
 ---
