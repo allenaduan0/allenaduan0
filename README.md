@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Full Stack Developer | Software Engineer
+# 👨‍💻 Full Stack Developer | Software Engineer | Web Developer
 
 <div align="center">
 
