@@ -55,7 +55,10 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+  <a href="https://github.com/allenaduan0"> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> 
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> 
+  </a>
   <a href="https://github.com/allenaduan0"> 
     <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
   </a>
