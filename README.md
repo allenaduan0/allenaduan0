@@ -67,8 +67,8 @@
 - Session security
 
 <div align="left">
-  <a href="https://github.com/allenaduan0/login_system_react_express" style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; margin-right: 10px;">📁 View Code</a>
-  <a href="#" style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;">🌐 Live Demo</a>
+  <a href="https://github.com/allenaduan0/login_system_react_express" style="display: inline-block; border: 1px solid #30363d; background: transparent; color: #58a6ff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; margin-right: 10px; transition: all 0.2s;">📁 View Code</a>
+  <a href="#" style="display: inline-block; border: 1px solid #30363d; background: transparent; color: #58a6ff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; transition: all 0.2s;">🌐 Live Demo</a>
 </div>
 
 </div>
