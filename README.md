@@ -15,40 +15,60 @@
 ## 🛠️ Tech Stack & Expertise
 
 ### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-### **Backend & Mobile**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### **Backend & Mobile Development**
+<p align="left">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔐 **[Secure Login System](https://github.com/allenaduan0/login_system_react_express)**
-A robust authentication system built with **React + Express.js**, featuring secure JWT token management, password encryption, and responsive UI design.
+<p align="left">
 
-### ✅ **[Task Tracker Pro](https://github.com/allenaduan0/task_tracker)**
-Full-stack task management application with real-time updates, drag-and-drop functionality, and advanced filtering capabilities.
+### 🔐 [Secure Login System](https://github.com/allenaduan0/login_system_react_express)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="20px" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="20px" />
+**Description:** A robust authentication system featuring **JWT token management**, password encryption, and responsive UI design.
 
-### 🌤️ **[LaraWeather](https://github.com/allenaduan0/lara_weather)**
-Weather application built with **Laravel**, integrating with weather APIs to provide accurate forecasts with beautiful data visualization.
+---
+
+### ✅ [Task Tracker Pro](https://github.com/allenaduan0/task_tracker)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="20px" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="20px" />
+**Description:** Full-stack task management app with **real-time updates**, drag-and-drop tasks, and advanced filtering.
+
+---
+
+### 🌤️ [LaraWeather](https://github.com/allenaduan0/lara_weather)
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="20px" />
+<img src="https://img.shields.io/badge/API-007ACC?style=for-the-badge&logo=apollographql&logoColor=white" height="20px" />
+**Description:** Weather app built with **Laravel**, integrating weather APIs to provide accurate forecasts with beautiful data visualization.
+
+</p>
 
 ---
 
@@ -110,3 +130,19 @@ const myCommitment: SoftwareEngineer = {
   communication: "I bridge gaps between teams and ideas.",
   mindset: "The tech landscape evolves, and so do I."
 };
+
+---
+
+<div align="center">
+
+### ✨ Thank you for visiting my GitHub profile! ✨
+
+> “Code is not just lines, it’s a story of solutions.”
+
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=allenaduan0.profile)](https://github.com/allenaduan0)
+
+<p align="center">
+  Keep exploring, building, and learning! 🚀
+</p>
+
+</div>
