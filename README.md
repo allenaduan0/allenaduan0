@@ -51,7 +51,7 @@
 
 <div style="display: grid; gap: 1.5rem;">
 
-### 🔐 Secure Login System
+### 🔐 [Secure Login System](https://github.com/allenaduan0/login_system_react_express)
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
   
 **Description:** Enterprise-grade authentication system with modern security practices
@@ -66,18 +66,9 @@
 - API rate limiting
 - Session security
 
-<div align="left">
-  [<img src="https://img.shields.io/badge/VIEW_CODE-238636?style=for-the-badge&logo=github&logoColor=white" height="28">](https://github.com/allenaduan0/login_system_react_express)
 </div>
 
-</div>
-
-### 🔐 [Secure Login System](https://github.com/allenaduan0/login_system_react_express)
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="20px" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="20px" />
-**Description:** A robust authentication system featuring **JWT token management**, password encryption, and responsive UI design.
-
-### ✅ Task Tracker Pro  
+### ✅ [Task Tracker Pro](https://github.com/allenaduan0/task_tracker)
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
 
 **Description:** Production-ready task management system built with Laravel
@@ -92,14 +83,9 @@
 - User role management
 - Data export capabilities
 
-<div align="left">
-[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/task_tracker)
-[<kbd>🌐 Live Demo</kbd>](#)
 </div>
 
-</div>
-
-### 🌤️ LaraWeather
+### 🌤️ [LaraWeather](https://github.com/allenaduan0/lara_weather)
 <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem;">
 
 **Description:** Weather application with professional data visualization
@@ -113,11 +99,6 @@
 - Location-based forecasting
 - Cached API responses
 - Mobile-responsive design
-
-<div align="left">
-[<kbd>📁 View Code</kbd>](https://github.com/allenaduan0/lara_weather)  
-[<kbd>🌐 Live Demo</kbd>](#)
-</div>
 
 </div>
 
