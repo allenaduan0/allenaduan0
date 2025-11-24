@@ -16,22 +16,38 @@
 
 ### **🖥️ Frontend Development**
 <div align="left">
-
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Vue.js` `Tailwind CSS` `Bootstrap`
+  
+<span style="background: #E34F26; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">HTML5</span>
+<span style="background: #1572B6; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">CSS3</span>
+<span style="background: #F7DF1E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">JavaScript</span>
+<span style="background: #3178C6; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">TypeScript</span>
+<span style="background: #61DAFB; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">React</span>
+<span style="background: #4FC08D; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Vue.js</span>
+<span style="background: #38B2AC; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Tailwind</span>
+<span style="background: #7952B3; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Bootstrap</span>
 
 </div>
 
 ### **⚙️ Backend & Mobile Development**
 <div align="left">
 
-`PHP` `Laravel` `CodeIgniter` `Express.js` `Flutter` `Firebase`
+<span style="background: #777BB4; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">PHP</span>
+<span style="background: #FF2D20; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Laravel</span>
+<span style="background: #EF4223; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">CodeIgniter</span>
+<span style="background: #000000; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Express.js</span>
+<span style="background: #02569B; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Flutter</span>
+<span style="background: #FFCA28; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Firebase</span>
 
 </div>
 
 ### **🛠️ Tools & Platforms**
 <div align="left">
 
-`Git` `Postman` `jQuery` `Vercel` `Netlify`
+<span style="background: #F05032; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Git</span>
+<span style="background: #FF6C37; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Postman</span>
+<span style="background: #0769AD; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">jQuery</span>
+<span style="background: #000000; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Vercel</span>
+<span style="background: #00C7B7; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Netlify</span>
 
 </div>
 
