@@ -51,95 +51,71 @@
 
 <div align="center">
 
-<div style="display: flex; flex-direction: column; gap: 2rem;">
+<!-- Secure Login System Card -->
+<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
+<h3>🔐 Secure Login System</h3>
 
-### 🔐 Secure Login System
-<div style="background: linear-gradient(145deg, #1a1a1a, #2d2d2d); border-radius: 15px; padding: 2rem; border: 1px solid #333; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-
-<div align="center" style="margin-bottom: 1.5rem;">
-  [![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
-  [![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+<div align="center">
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
 </div>
-
-<div align="left">
 
 **🛠 Built With:**  
-<div style="margin: 1rem 0;">
-  <span style="background: #61DAFB; color: black; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">React</span>
-  <span style="background: #000000; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Express</span>
-  <span style="background: #D63AFF; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">JWT</span>
-  <span style="background: #FF6B6B; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Bcrypt</span>
-</div>
+<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">React</span>
+<span style="background:#000000; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Express</span>
+<span style="background:#D63AFF; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">JWT</span>
+<span style="background:#FF6B6B; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Bcrypt</span>
 
 **✨ Highlights:**  
-<div style="margin: 1rem 0; line-height: 1.6;">
-• 🔒 **Secure Authentication** - JWT token management & password encryption  
-• 🎨 **Modern UI** - Responsive design with intuitive user experience  
-• ⚡ **Performance** - Optimized session management & fast load times  
+🔒 Secure Authentication - JWT & password encryption  
+🎨 Modern UI - Responsive and intuitive  
+⚡ Performance - Optimized sessions & fast load times
 </div>
 
-</div>
-</div>
+<!-- Task Tracker Pro Card -->
+<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
+<h3>✅ Task Tracker Pro</h3>
 
-### ✅ Task Tracker Pro
-<div style="background: linear-gradient(145deg, #1a1a1a, #2d2d2d); border-radius: 15px; padding: 2rem; border: 1px solid #333; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-
-<div align="center" style="margin-bottom: 1.5rem;">
-  [![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/task_tracker)
-  [![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+<div align="center">
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/task_tracker)
 </div>
-
-<div align="left">
 
 **🛠 Built With:**  
-<div style="margin: 1rem 0;">
-  <span style="background: #61DAFB; color: black; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">React</span>
-  <span style="background: #FFCA28; color: black; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Firebase</span>
-  <span style="background: #47A248; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Real-time DB</span>
-  <span style="background: #61DAFB; color: black; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Drag & Drop</span>
-</div>
+<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">React</span>
+<span style="background:#FFCA28; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Firebase</span>
+<span style="background:#47A248; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Real-time DB</span>
+<span style="background:#61DAFB; color:black; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Drag & Drop</span>
 
 **✨ Highlights:**  
-<div style="margin: 1rem 0; line-height: 1.6;">
-• 🔄 **Real-time Sync** - Instant updates across all devices  
-• 👆 **Drag & Drop** - Intuitive task organization  
-• 🔍 **Smart Filtering** - Advanced categorization & search  
-• ☁️ **Cloud Storage** - Secure data persistence  
+🔄 Real-time Sync  
+👆 Drag & Drop Tasks  
+🔍 Smart Filtering  
+☁️ Cloud Storage
 </div>
 
-</div>
-</div>
+<!-- LaraWeather Card -->
+<div style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 20px; margin: 15px; max-width: 600px; background-color:#f9f9f9; text-align:left;">
+<h3>🌤️ LaraWeather</h3>
 
-### 🌤️ LaraWeather
-<div style="background: linear-gradient(145deg, #1a1a1a, #2d2d2d); border-radius: 15px; padding: 2rem; border: 1px solid #333; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-
-<div align="center" style="margin-bottom: 1.5rem;">
-  [![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/lara_weather)
-  [![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+<div align="center">
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/lara_weather)
 </div>
-
-<div align="left">
 
 **🛠 Built With:**  
-<div style="margin: 1rem 0;">
-  <span style="background: #FF2D20; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Laravel</span>
-  <span style="background: #007ACC; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">REST API</span>
-  <span style="background: #47A248; color: white; padding: 6px 12px; border-radius: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">Data Viz</span>
-  <span style="background: #777BB4; color: white; padding: 6px 12px; border-height: 8px; font-size: 0.85em; margin: 4px; display: inline-block; font-weight: 600;">PHP</span>
-</div>
+<span style="background:#FF2D20; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Laravel</span>
+<span style="background:#007ACC; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">REST API</span>
+<span style="background:#47A248; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">Data Viz</span>
+<span style="background:#777BB4; color:white; padding:4px 8px; border-radius:6px; margin:2px; display:inline-block;">PHP</span>
 
 **✨ Highlights:**  
-<div style="margin: 1rem 0; line-height: 1.6;">
-• 🌡️ **Accurate Forecasts** - Real-time weather data integration  
-• 📊 **Beautiful Charts** - Interactive data visualization  
-• 📍 **Multi-location** - Support for multiple cities  
-• 🎯 **User-Friendly** - Clean, intuitive interface  
+🌡️ Accurate Forecasts  
+📊 Beautiful Charts  
+📍 Multi-location Support  
+🎯 Clean UI
 </div>
 
-</div>
-</div>
-
-</div>
 </div>
 
 ---
