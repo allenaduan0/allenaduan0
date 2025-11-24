@@ -17,37 +17,37 @@
 ### **🖥️ Frontend Development**
 <div align="left">
   
-<span style="background: #E34F26; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">HTML5</span>
-<span style="background: #1572B6; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">CSS3</span>
-<span style="background: #F7DF1E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">JavaScript</span>
-<span style="background: #3178C6; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">TypeScript</span>
-<span style="background: #61DAFB; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">React</span>
-<span style="background: #4FC08D; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Vue.js</span>
-<span style="background: #38B2AC; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Tailwind</span>
-<span style="background: #7952B3; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Bootstrap</span>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
 ### **⚙️ Backend & Mobile Development**
 <div align="left">
 
-<span style="background: #777BB4; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">PHP</span>
-<span style="background: #FF2D20; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Laravel</span>
-<span style="background: #EF4223; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">CodeIgniter</span>
-<span style="background: #000000; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Express.js</span>
-<span style="background: #02569B; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Flutter</span>
-<span style="background: #FFCA28; color: black; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Firebase</span>
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </div>
 
 ### **🛠️ Tools & Platforms**
 <div align="left">
 
-<span style="background: #F05032; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Git</span>
-<span style="background: #FF6C37; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Postman</span>
-<span style="background: #0769AD; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">jQuery</span>
-<span style="background: #000000; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Vercel</span>
-<span style="background: #00C7B7; color: white; padding: 4px 8px; border-radius: 12px; font-size: 0.9em;">Netlify</span>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
