@@ -6,7 +6,7 @@
 
 ### 🚀 Allen Christopher Aduan
 
-**Crafting Digital Excellence Through Code**
+**💻 Full Stack Developer | Software Engineer | Web Developer**
 
 </div>
 
