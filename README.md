@@ -22,16 +22,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="display:inline-block; margin:5px; filter: invert(34%) sepia(98%) saturate(2818%) hue-rotate(252deg) brightness(95%) contrast(91%)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40" style="display:inline-block; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="display:inline-block; margin:5px"/>
 </div>
 
 ### ⚙️ Backend & Mobile Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/laravel.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" style="display:inline-block; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" style="display:inline-block; margin:5px"/>
 </div>
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel" width="40" height="40" style="display:inline-block; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" alt="Netlify" width="40" height="40" style="display:inline-block; margin:5px"/>
 </div>
 
