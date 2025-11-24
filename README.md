@@ -67,8 +67,8 @@
 - Session security
 
 <div align="left">
-  <a href="https://github.com/allenaduan0/login_system_react_express" style="display: inline-block; border: 1px solid #30363d; background: transparent; color: #58a6ff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; margin-right: 10px; transition: all 0.2s;">📁 View Code</a>
-  <a href="#" style="display: inline-block; border: 1px solid #30363d; background: transparent; color: #58a6ff; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; transition: all 0.2s;">🌐 Live Demo</a>
+  [<img src="https://img.shields.io/badge/VIEW_CODE-238636?style=for-the-badge&logo=github&logoColor=white" height="28">](https://github.com/allenaduan0/login_system_react_express)
+  [<img src="https://img.shields.io/badge/LIVE_DEMO-1f6feb?style=for-the-badge&logo=rocket&logoColor=white" height="28">](#)
 </div>
 
 </div>
