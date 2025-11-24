@@ -16,35 +16,34 @@
 
 ### **🖥️ Frontend Development**
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&label=" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&label=" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&label=" />
-  <img alt="React" src="https://img.shields.io/badge/-React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB&label=" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&label=" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&label=" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&label=" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=E34F26" height="30" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=1572B6" height="30" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E" height="30" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6" height="30" />
+  <img alt="React" src="https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=61DAFB" height="30" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" height="30" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logo=tailwind-css&logoColor=06B6D4" height="30" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=7952B3" height="30" />
 </div>
 
 ### **⚙️ Backend & Mobile Development**
 <div align="left">
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&label=" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white&label=" />
-  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-%23EF4223?style=for-the-badge&logo=codeigniter&logoColor=white&label=" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white&label=" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&label=" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white&label=" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=777BB4" height="30" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20" height="30" />
+  <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-000?style=flat-square&logo=codeigniter&logoColor=EE0000" height="30" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white" height="30" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=flutter&logoColor=02569B" height="30" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=FFCA28" height="30" />
 </div>
 
 ### **🛠️ Tools & Platforms**
 <div align="left">
-  <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white&label=" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&label=" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white&label=" />
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white&label=" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white&label=" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=F05032" height="30" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman&logoColor=FF6C37" height="30" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-000?style=flat-square&logo=jquery&logoColor=0769AD" height="30" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white" height="30" />
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-000?style=flat-square&logo=netlify&logoColor=00C7B7" height="30" />
 </div>
-
 
 ---
 
