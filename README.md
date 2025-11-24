@@ -52,54 +52,77 @@
 <div align="center">
 
 ### 🔐 Secure Login System
-[![View Project](https://img.shields.io/badge/🔗_View_Project-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/login_system_react_express)
+
+</div>
 
 <div align="left">
 
-**🛠 Tech Stack:**  
-`React` `Express` `JWT` `Bcrypt` `Responsive Design`
+**🛠 Built With:**  
+<span style="background: #61DAFB; color: black; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">React</span>
+<span style="background: #000000; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Express</span>
+<span style="background: #D63AFF; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">JWT</span>
+<span style="background: #FF6B6B; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Bcrypt</span>
 
-**✨ Features:**  
-• Secure JWT token management  
-• Password encryption & hashing  
-• Modern responsive UI design  
-• Session management  
+**✨ Highlights:**  
+🔒 **Secure Authentication** - JWT token management & password encryption  
+🎨 **Modern UI** - Responsive design with intuitive user experience  
+⚡ **Performance** - Optimized session management & fast load times  
 
 </div>
 
 ---
 
 ### ✅ Task Tracker Pro
-[![View Project](https://img.shields.io/badge/🔗_View_Project-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/task_tracker)
+
+</div>
 
 <div align="left">
 
-**🛠 Tech Stack:**  
-`React` `Firebase` `Real-time DB` `Drag & Drop`
+**🛠 Built With:**  
+<span style="background: #61DAFB; color: black; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">React</span>
+<span style="background: #FFCA28; color: black; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Firebase</span>
+<span style="background: #47A248; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Real-time DB</span>
+<span style="background: #61DAFB; color: black; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Drag & Drop</span>
 
-**✨ Features:**  
-• Real-time task synchronization  
-• Intuitive drag-and-drop interface  
-• Advanced filtering & categorization  
-• Cloud-based persistence  
+**✨ Highlights:**  
+🔄 **Real-time Sync** - Instant updates across all devices  
+👆 **Drag & Drop** - Intuitive task organization  
+🔍 **Smart Filtering** - Advanced categorization & search  
+☁️ **Cloud Storage** - Secure data persistence  
 
 </div>
 
 ---
 
 ### 🌤️ LaraWeather
-[![View Project](https://img.shields.io/badge/🔗_View_Project-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/🚀_Live_Demo-2EA043?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+[![Code](https://img.shields.io/badge/💻_Code-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allenaduan0/lara_weather)
+
+</div>
 
 <div align="left">
 
-**🛠 Tech Stack:**  
-`Laravel` `REST API` `Data Visualization` `PHP`
+**🛠 Built With:**  
+<span style="background: #FF2D20; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Laravel</span>
+<span style="background: #007ACC; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">REST API</span>
+<span style="background: #47A248; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">Data Viz</span>
+<span style="background: #777BB4; color: white; padding: 4px 8px; border-radius: 6px; font-size: 0.8em; margin: 2px; display: inline-block;">PHP</span>
 
-**✨ Features:**  
-• Accurate weather forecasting  
-• Beautiful data visualization  
-• Multiple location support  
-• Clean, intuitive interface  
+**✨ Highlights:**  
+🌡️ **Accurate Forecasts** - Real-time weather data integration  
+📊 **Beautiful Charts** - Interactive data visualization  
+📍 **Multi-location** - Support for multiple cities  
+🎯 **User-Friendly** - Clean, intuitive interface  
 
 </div>
 
