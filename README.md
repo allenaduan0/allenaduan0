@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" style="display:inline-block; margin:5px"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" style="display:inline-block; margin:5px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" style="display:inline-block; margin:5px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="display:inline-block; margin:5px; filter: invert(34%) sepia(98%) saturate(2818%) hue-rotate(252deg) brightness(95%) contrast(91%)"/>
 </div>
 
 ### ⚙️ Backend & Mobile Development
