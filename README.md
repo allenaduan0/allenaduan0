@@ -25,10 +25,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend & Mobile**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP]([https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
+![Laravel]([https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white))
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express]([https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white))
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -54,7 +54,18 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 
 ## 📊 GitHub Analytics
 
-<div align="center"><!-- A more modern stats card --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> </a><!-- GitHub Streak Stats --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </a><!-- Trophy Stats --><a href="https://github.com/allenaduan0"> <img height="180em" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" /> </a></div>
+<div align="center">
+  <a href="https://github.com/allenaduan0"> 
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> 
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> 
+  </a>
+  <a href="https://github.com/allenaduan0"> 
+    <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+  </a>
+  <a href="https://github.com/allenaduan0"> 
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" /> 
+  </a>
+</div>
 
 ---
 
@@ -84,10 +95,18 @@ Weather application built with **Laravel**, integrating with weather APIs to pro
 ## 📈 Engineering Philosophy
 
 ```javascript
-const myApproach = {
-  code: "Clean & Maintainable",
-  testing: "Comprehensive & Automated",
-  documentation: "Thorough & Clear",
-  collaboration: "Effective & Transparent",
-  learning: "Continuous & Curious"
+interface SoftwareEngineer {
+  codeQuality: "Clean, Testable, & Maintainable";
+  architecture: "Scalable & Decoupled";
+  approach: "Agile & Iterative";
+  communication: "Clear & Collaborative";
+  mindset: "Always Learning, Always Curious";
+}
+
+const myCommitment: SoftwareEngineer = {
+  codeQuality: "I write code for humans, then compilers.",
+  architecture: "I design systems that scale and adapt.",
+  approach: "I deliver value incrementally and reliably.",
+  communication: "I bridge gaps between teams and ideas.",
+  mindset: "The tech landscape evolves, and so do I."
 };
