@@ -116,13 +116,24 @@
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/allenaduan0)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true)](https://github.com/allenaduan0)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/allenaduan0)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/allenaduan0)
+<table>
+  <tr>
+    <td align="center">
+      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/allenaduan0)
+    </td>
+    <td align="center">
+      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true)](https://github.com/allenaduan0)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      [![Streak Stats](https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/allenaduan0)
+    </td>
+    <td align="center">
+      [![Trophies](https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/allenaduan0)
+    </td>
+  </tr>
+</table>
 
 ---
 
