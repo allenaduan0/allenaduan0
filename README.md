@@ -116,17 +116,24 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/allenaduan0"> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" /> 
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" /> 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <a href="https://github.com/allenaduan0">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
   </a>
-  <a href="https://github.com/allenaduan0"> 
-    <img height="180em" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> 
+
+  <a href="https://github.com/allenaduan0">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/allenaduan0"> 
-    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" /> 
+
+  <a href="https://github.com/allenaduan0">
+    <img height="180px" src="https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
+
+  <a href="https://github.com/allenaduan0">
+    <img height="180px" src="https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4" />
+  </a>
+
 </div>
 
 ---
