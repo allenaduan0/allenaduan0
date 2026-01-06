@@ -116,21 +116,44 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Stats
+
 <table>
   <tr>
+    <!-- GitHub Stats -->
     <td align="center">
-      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true&hide_border=true)](https://github.com/allenaduan0)
+      [![GitHub Stats](https://img.shields.io/github/commit-activity/m/allenaduan0?color=blue&label=Commits)](https://github.com/allenaduan0)
+      <br>
+      [![GitHub Followers](https://img.shields.io/github/followers/allenaduan0?label=Followers&style=social)](https://github.com/allenaduan0)
+      <br>
+      [![GitHub Stars](https://img.shields.io/github/stars/allenaduan0?style=social)](https://github.com/allenaduan0)
     </td>
+
+    <!-- Top Languages -->
     <td align="center">
-      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&layout=compact&theme=radical&hide_border=true)](https://github.com/allenaduan0)
+      [![Top Languages](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)](https://github.com/allenaduan0)
+      [![Top Languages](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)](https://github.com/allenaduan0)
+      [![Top Languages](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)](https://github.com/allenaduan0)
+      <br>
+      <!-- add more languages if needed -->
     </td>
   </tr>
+
   <tr>
+    <!-- Commit Streak -->
     <td align="center">
-      [![Streak Stats](https://streak-stats.demolab.com?user=allenaduan0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/allenaduan0)
+      ![Commit Streak](https://img.shields.io/badge/Current%20Streak-31%20days-brightgreen)
+      <br>
+      ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-45%20days-green)
     </td>
+
+    <!-- Trophies / Achievements -->
     <td align="center">
-      [![Trophies](https://github-profile-trophy.vercel.app/?username=allenaduan0&theme=radical&no-bg=true&no-frame=true&row=2&column=4)](https://github.com/allenaduan0)
+      ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue)
+      ![Bug Fixer](https://img.shields.io/badge/Bugs%20Fixed-150-red)
+      ![Projects](https://img.shields.io/badge/Projects-12-yellow)
+      <br>
+      <!-- You can customize trophy badges using Shields.io -->
     </td>
   </tr>
 </table>
