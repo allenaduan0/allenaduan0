@@ -116,11 +116,13 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenaduan0&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenaduan0&hide=html,css,scss&layout=compact&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allenaduan0&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allenaduan0&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allenaduan0&theme=radical)
+
+![Streak](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allenaduan0&theme=radical&utcOffset=8)
 
 ---
 
