@@ -114,22 +114,13 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 ## 📊 GitHub Stats
 
-[![Commits](https://img.shields.io/github/commit-activity/m/allenaduan0?color=blue&label=Commits)](https://github.com/allenaduan0)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-[![Top Languages](https://img.shields.io/badge/Python-100%25-blue?logo=python&logoColor=white)](https://github.com/allenaduan0)
-[![Top Languages](https://img.shields.io/badge/JavaScript-80%25-yellow?logo=javascript&logoColor=white)](https://github.com/allenaduan0)
-[![Top Languages](https://img.shields.io/badge/HTML-60%25-orange?logo=html5&logoColor=white)](https://github.com/allenaduan0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-![Current Streak](https://img.shields.io/badge/Current%20Streak-31%20days-brightgreen)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-45%20days-green)
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blue)
-![Bug Fixer](https://img.shields.io/badge/Bugs%20Fixed-150-red)
-![Projects](https://img.shields.io/badge/Projects-12-yellow)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
 
 ---
 
