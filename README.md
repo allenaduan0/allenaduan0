@@ -116,11 +116,13 @@
 
 ## 📊 GitHub Stats
 
-| ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenaduan0&theme=radical) |
-| :---: |
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allenaduan0&theme=radical" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allenaduan0&theme=radical" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allenaduan0&theme=radical&utcOffset=8" />
+</div>
 
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allenaduan0&theme=radical) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allenaduan0&theme=radical) | ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allenaduan0&theme=radical&utcOffset=8) |
-| :---: | :---: | :---: |
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenaduan0&theme=radical)
 
 ---
 
