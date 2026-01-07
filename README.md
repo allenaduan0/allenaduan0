@@ -116,12 +116,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allenaduan0&show_icons=true&theme=radical&hide_title=true&hide=issues&count_private=true&include_all_commits=true&hide_border=true)
+![Allen's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenaduan0&theme=radical)
 
-<div align="center">
-  <img height="137" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allenaduan0&theme=radical&exclude=html,css" />
-  <img height="137" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allenaduan0&theme=radical&utcOffset=8" />
-</div>
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allenaduan0&theme=radical) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allenaduan0&theme=radical) | ![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allenaduan0&theme=radical&utcOffset=8) |
+| :---: | :---: | :---: |
 
 ---
 
